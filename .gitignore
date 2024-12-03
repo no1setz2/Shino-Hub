@@ -1,8 +1,1 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-
-OrionLib:MakeNotification({
-	Name = "Shino Hub",
-	Content = "Thanks for using my script!",
-	Image = "rbxassetid://83002794349953",
-	Time = 5
-})
+nil
